@@ -3,19 +3,13 @@
 ### 1. Tutte's graph embedding
 <figure style="text-align: center;">
     <img src="https://github.com/Nikita-Dudorov/DGP_planar_graph/blob/main/images/trian100.png" width="400" />
-    <figcaption>Figure 1: Caption for image</figcaption>
+    <figcaption>Input planar graph</figcaption>
 </figure>
 
-<div style="display: flex; justify-content: center;">
-    <div style="position: relative; margin-right: 50px;">
-        <img src="https://github.com/Nikita-Dudorov/DGP_planar_graph/blob/main/images/trian100.png" width="200" />
-        <span style="position: absolute; top: 0; left: 0; background-color: rgba(255, 255, 255, 0.7); padding: 5px;">Caption for image 1</span>
-    </div>
-    <div style="position: relative;">
-        <img src="https://github.com/Nikita-Dudorov/DGP_planar_graph/blob/main/images/tutte100.png" width="200" />
-        <span style="position: absolute; top: 0; left: 0; background-color: rgba(255, 255, 255, 0.7); padding: 5px;">Caption for image 2</span>
-    </div>
-</div>
+<figure style="text-align: center;">
+    <img src="https://github.com/Nikita-Dudorov/DGP_planar_graph/blob/main/images/tutte100.png" width="400" />
+    <figcaption>Tutte's embedding of the graph</figcaption>
+</figure>
 
 ### 2. Principal Component Analysis (PCA) + Shortest Paths heuristics for drawing reconstruction
 ![](https://github.com/Nikita-Dudorov/DGP_planar_graph/blob/main/images/Instance100.png)
