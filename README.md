@@ -3,11 +3,11 @@
 ### 1. Tutte's graph embedding
 <div style="display: flex; justify-content: center;">
     <figure>
-        <img src="https://github.com/Nikita-Dudorov/DGP_planar_graph/blob/main/images/trian100.png" style="height:40%;width:40%;">
+        <img src="https://github.com/Nikita-Dudorov/DGP_planar_graph/blob/main/images/trian100.png" style="height:30%;width:30%;">
         <figcaption>Figure 1: Caption for image 1</figcaption>
     </figure>
     <figure>
-        <img src="https://github.com/Nikita-Dudorov/DGP_planar_graph/blob/main/images/tutte100.png" style="height:40%;width:40%;">
+        <img src="https://github.com/Nikita-Dudorov/DGP_planar_graph/blob/main/images/tutte100.png" style="height:30%;width:30%;">
         <figcaption>Figure 2: Caption for image 2</figcaption>
     </figure>
 </div>
