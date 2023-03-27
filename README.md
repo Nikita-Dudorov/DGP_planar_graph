@@ -4,7 +4,7 @@
 <div>
     <figure style="text-align: center;">
         <img src="https://github.com/Nikita-Dudorov/DGP_planar_graph/blob/main/images/trian100.png" width="300" />
-        <figcaption>Caption for image 1</figcaption>
+        <figcaption>Caption</figcaption>
     </figure>
     <figure style="text-align: center;">
         <img src="https://github.com/Nikita-Dudorov/DGP_planar_graph/blob/main/images/tutte100.png" width="300" />
