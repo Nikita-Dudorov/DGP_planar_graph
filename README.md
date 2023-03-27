@@ -4,11 +4,11 @@
 <div style="display: flex; justify-content: center;">
     <figure style="text-align: center;">
         <img src="https://github.com/Nikita-Dudorov/DGP_planar_graph/blob/main/images/trian100.png" width="300" />
-        <figcaption>Caption for image 1</figcaption>
+        <figcaption style="margin-top: 10px;">Caption for image 1</figcaption>
     </figure>
     <figure style="text-align: center;">
         <img src="https://github.com/Nikita-Dudorov/DGP_planar_graph/blob/main/images/tutte100.png" width="300" />
-        <figcaption>Caption for image 2</figcaption>
+        <figcaption style="margin-top: 10px;">Caption for image 2</figcaption>
     </figure>
 </div>
 
