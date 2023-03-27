@@ -2,8 +2,8 @@
 
 ### 1. Tutte's graph embedding
 <div style="display: flex; justify-content: center;">
-    <img src="https://github.com/Nikita-Dudorov/DGP_planar_graph/blob/main/images/trian100.png" alt="Image 1"/>
-    <img src="https://github.com/Nikita-Dudorov/DGP_planar_graph/blob/main/images/tutte100.png" alt="Image 2"/>
+    <img src="https://github.com/Nikita-Dudorov/DGP_planar_graph/blob/main/images/trian100.png" style="height:50%;width:50%;" alt="Image 1"/>
+    <img src="https://github.com/Nikita-Dudorov/DGP_planar_graph/blob/main/images/tutte100.png" style="height:50%;width:50%;" alt="Image 2"/>
 </div>
 
 ### 2. Principal Component Analysis (PCA) + Shortest Paths heuristics for drawing reconstruction
