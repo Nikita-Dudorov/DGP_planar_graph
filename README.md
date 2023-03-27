@@ -1,14 +1,27 @@
 # Distance Geometry Problem (DGP) for reconstruction of planar graph drawings   
 
 ### 1. Tutte's graph embedding
-<div class="row">
-    <div class="column">
-        <img src="https://github.com/Nikita-Dudorov/DGP_planar_graph/blob/main/images/trian100.png" style="height:30%;width:30%;">
-    </div>
-    <div class="column">
-        <img src="https://github.com/Nikita-Dudorov/DGP_planar_graph/blob/main/images/tutte100.png" style="height:30%;width:30%;">
-    </div>
-</div>
+<head>
+	<title>Two Images Side by Side</title>
+	<style>
+		.image-container {
+			display: flex;
+			flex-direction: row;
+		}
+		.image-container img {
+			display: inline-block;
+			margin-right: 10px;
+			max-width: 50%;
+			height: auto;
+		}
+	</style>
+</head>
+<body>
+	<div class="image-container">
+		<img src="https://github.com/Nikita-Dudorov/DGP_planar_graph/blob/main/images/trian100.png" alt="Image 1">
+		<img src="https://github.com/Nikita-Dudorov/DGP_planar_graph/blob/main/images/tutte100.png" alt="Image 2">
+	</div>
+</body>
 
 <img src="https://github.com/Nikita-Dudorov/DGP_planar_graph/blob/main/images/trian100.png" style="height:50%;width:50%;" >
 ![Tutte embdedding](https://github.com/Nikita-Dudorov/DGP_planar_graph/blob/main/images/tutte100.png)
