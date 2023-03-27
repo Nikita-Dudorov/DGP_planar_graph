@@ -1,6 +1,8 @@
 # Distance Geometry Problem (DGP) for reconstruction of planar graph drawings   
 
 ### 1. Tutte's graph embedding
+<!DOCTYPE html>
+<html>
 <head>
 	<title>Two Images Side by Side</title>
 	<style>
@@ -22,6 +24,7 @@
 		<img src="https://github.com/Nikita-Dudorov/DGP_planar_graph/blob/main/images/tutte100.png" alt="Image 2">
 	</div>
 </body>
+<html>
 
 <img src="https://github.com/Nikita-Dudorov/DGP_planar_graph/blob/main/images/trian100.png" style="height:50%;width:50%;" >
 ![Tutte embdedding](https://github.com/Nikita-Dudorov/DGP_planar_graph/blob/main/images/tutte100.png)
