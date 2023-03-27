@@ -12,7 +12,8 @@
     </figure>
 </div>
 
-
+//
+//
 
 ### 2. Principal Component Analysis (PCA) + Shortest Paths heuristics for drawing reconstruction
 ![](https://github.com/Nikita-Dudorov/DGP_planar_graph/blob/main/images/Instance100.png)
