@@ -7,7 +7,7 @@
         <p>This is image 1</p>
     </div>
     <div class="imgContainer">
-        <img src="https://github.com/Nikita-Dudorov/DGP_planar_graph/blob/main/images/tutte100.png" style="height:50%;width:50%;">
+        <img class="middle-img" src="https://github.com/Nikita-Dudorov/DGP_planar_graph/blob/main/images/tutte100.png" style="height:50%;width:50%;">
         <p>This is image 2</p>
     </div>
 </div>
