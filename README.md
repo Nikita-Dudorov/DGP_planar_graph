@@ -1,7 +1,7 @@
 # Distance Geometry Problem (DGP) for reconstruction of planar graph drawings   
 
 ### 1. Tutte's graph embedding
-<div style="justify-content: center;">
+<div>
     <figure style="text-align: center;">
         <img src="https://github.com/Nikita-Dudorov/DGP_planar_graph/blob/main/images/trian100.png" width="300" />
         <figcaption>Caption for image 1</figcaption>
