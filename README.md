@@ -2,7 +2,7 @@
 
 ### 1. Tutte's graph embedding
 ![](https://github.com/Nikita-Dudorov/DGP_planar_graph/blob/main/images/trian100.pdf)
-<image src="images/trian100.pdf"/>
+[embed]https://github.com/Nikita-Dudorov/DGP_planar_graph/blob/main/images/trian100.pdf[/embed]
 ![](https://github.com/Nikita-Dudorov/DGP_planar_graph/blob/main/images/tutte100.pdf)
 
 ### 2. Principal Component Analysis (PCA) + Shortest Paths heuristics for drawing reconstruction
