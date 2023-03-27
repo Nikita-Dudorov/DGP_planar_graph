@@ -1,7 +1,7 @@
 # Distance Geometry Problem (DGP) for reconstruction of planar graph drawings   
 
 ### 1. Tutte's graph embedding
-![](https://github.com/Nikita-Dudorov/DGP_planar_graph/blob/main/images/trian100.png Innput planar graph)
+[Innput planar graph](https://github.com/Nikita-Dudorov/DGP_planar_graph/blob/main/images/trian100.png)
 [Tutte embdedding](https://github.com/Nikita-Dudorov/DGP_planar_graph/blob/main/images/tutte100.png)
 
 ### 2. Principal Component Analysis (PCA) + Shortest Paths heuristics for drawing reconstruction
