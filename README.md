@@ -1,6 +1,6 @@
 # Distance Geometry Problem (DGP) for reconstruction of planar graph drawings   
 
-### 1. Tutte's planar graph embedding
+### 1. Planar graph embedding
 <figure style="text-align: center;">
     <img src="https://github.com/Nikita-Dudorov/DGP_planar_graph/blob/main/images/trian100.png" width="400" />
     <figcaption>Input planar graph</figcaption>
